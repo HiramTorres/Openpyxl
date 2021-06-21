@@ -4,6 +4,3 @@ Se utilizando la librería openpyxl para crear y manipular datos y hojas, dar fo
 
 **_Nota:_** _Funciona para excel 2010 o mayor_
 
-## Hiram Torres 
-- hiram 
-> hiram torres 
